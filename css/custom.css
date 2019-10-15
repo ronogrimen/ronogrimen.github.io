@@ -119,3 +119,9 @@ nav.navbar a.nav-link {
 .click-me a:hover {
     color: #717171;
 }
+
+@media (max-width: 768px) {
+    .text-align-center {
+        text-align: center;
+    }
+}
